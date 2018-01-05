@@ -1,0 +1,14 @@
+Generic:
+  - Server
+  - Via
+  - X-Powered-By
+
+Apache:
+  - X-Mod-Pagespeed
+  
+Drupal:
+  - X-Generator
+  
+IIS:
+  - X-AspNetMvc-Version
+  - X-AspNet-Version
